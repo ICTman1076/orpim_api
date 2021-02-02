@@ -32,7 +32,7 @@ orp.shortenUrl(target[, shortcode[, domain]])
 - `domain` - the domain to use. You may use any domain that is accessible to you when
   generating a link manually. Defaults to dcr.gg
 
-Returns: Incomplete `ShortenedURL` object
+Returns: Incomplete [`ShortenedURL` object](https://github.com/ICTman1076/orpim_api#shortenedurl-object)
 
 Errors:
 - `exceptions.MissingDomainPermission` - The user doesn't have access to this domain, either 
@@ -46,7 +46,7 @@ Errors:
 orp.listUrls()
 ```
 
-Returns: A list of `ShortenedURL` objects
+Returns: A list of [`ShortenedURL` object](https://github.com/ICTman1076/orpim_api#shortenedurl-object)s
 
 Errors:
 - `exceptions.InvalidToken` - The token is invalid.
