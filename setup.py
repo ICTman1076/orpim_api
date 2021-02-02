@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'orpim_api',
   packages = ['orpim_api'],
-  version = '0.1',
+  version = '0.2',
   license='APL-1.0',
   description = 'A simple python wrapper for the orp.im URL shortener API',  
   author = 'ICTman1076',
   author_email = 'orpim.pypi@sorcerertech.co.uk',
   url = 'https://github.com/ICTman1076/orpim_api',
-  download_url = 'https://github.com/ICTman1076/orpim_api/archive/0.1.tar.gz',
+  download_url = 'https://github.com/ICTman1076/orpim_api/archive/0.2.tar.gz',
   keywords = ['URL shortener'],
   install_requires=[],
   classifiers=[
