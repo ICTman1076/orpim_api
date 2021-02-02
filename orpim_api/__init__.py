@@ -6,9 +6,9 @@ class ShortenedURL:
         self.rawData = data
         if target != None:
             self.id = None
-            self.sub = data["final_domain"].split(".")[0]
-            self.domain = ".".join(data["final_domain"].split(".")[1:])
-            self.link = data["final_link"]
+            self.sub = data["sub"]
+            self.domain = data["domain"]
+            self.link = data["link"]
             self.target = target
             self.user = None
             self.disabled = None
