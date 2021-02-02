@@ -10,6 +10,8 @@ Alternatively, you can ask your users to provide their own tokens, by signing in
 https://orp.im/gettoken.
 
 ## Documentation
+Installation is everyone's favourite `pip install orpim-api`.
+
 To use the library, instantiate a class like so:
 
 ```
