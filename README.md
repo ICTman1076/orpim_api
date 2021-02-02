@@ -72,3 +72,7 @@ of this object (and will be set to `None`)
 
 https://api.orp.im/ has details on the API, and as the library closely mirrors the API
 it works as fallback documentation.
+
+-----------------------
+
+This library is maintained by [Sorcerertech](https://sorcerertech.co.uk). :)
