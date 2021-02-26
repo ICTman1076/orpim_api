@@ -7,7 +7,10 @@ for any reason, so you should update as regularly and as quickly as possible.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.1     | :white_check_mark: |
+| 0.2     | :white_check_mark: |
+| 0.1*    | :x:                |
+
+Versions marked with an *asterisk are no longer compatible with the API and as such cannot be used at all.
 
 ## Reporting a Vulnerability
 
